@@ -1,0 +1,2 @@
+О модуле crt
+http://mojainformatika.ru/paskal/uroki-paskal/7-ispolzovanie-window-textbackground-textcolor.html
